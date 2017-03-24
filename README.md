@@ -6,4 +6,4 @@
 DENNERY Stéphane,
 CREPPY Pauline,
 OBERTELLI Alexandra,
-SONG Nicolas
+SONG Benjamin
