@@ -2,7 +2,7 @@
 
 # Projet Achitecture des SI
 
-# Liste des collaborateurs
+# Liste des collaborateurs :
 DENNERY Stéphane,
 CREPPY Pauline,
 OBERTELLI Alexandra,
